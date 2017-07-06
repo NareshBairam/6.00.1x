@@ -12,4 +12,3 @@ def closest_power(base, num):
 	return min
 
 closest_power(4, 1) 
-
